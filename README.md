@@ -93,4 +93,4 @@ katalog-buku/
 
 ## Pembuat
 
-[M Fahriza Pratama] - [10124033]
+M Fahriza Pratama - 10124033
